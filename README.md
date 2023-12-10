@@ -17,3 +17,5 @@
  6. To train the model run the command "python train.py --dataset name of machine trained for example (fan0) --dataroot (path to dataset folder) --niter 300 --batchsize 16 --id (is the section number)
  7. To test the trained mode run the command "python train.py --dataset (name used when training) --dataroot (path to dataset folder) --load_weights --batchsize 16 --id (section number)
  8. The results will appear in the terminal the first value is the AUC of testing on source test and the second value is the AUC of testing on target test. 
+
+https://drive.google.com/file/d/1xBv-01vvxm1b8A0ritlhDJUW1KZo_ha0/view?usp=sharing
