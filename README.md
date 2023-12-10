@@ -18,4 +18,5 @@
  7. To test the trained mode run the command "python train.py --dataset (name used when training) --dataroot (path to dataset folder) --load_weights --batchsize 16 --id (section number)
  8. The results will appear in the terminal the first value is the AUC of testing on source test and the second value is the AUC of testing on target test. 
 
+#Thesis Link
 https://drive.google.com/file/d/1xBv-01vvxm1b8A0ritlhDJUW1KZo_ha0/view?usp=sharing
